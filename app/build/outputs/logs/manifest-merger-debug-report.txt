@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:1-36:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Neo Anderson\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\Neo Anderson\.gradle\caches\transforms-3\61bad95d48f6c1678351882590055ef1\transformed\fragment-1.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\c970ab97bb5351b7da8839fd05c191b6\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\4afd4f5f390f2998f1a06307e306af63\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\2ff40ce2f9d039dce4ff2518356734a1\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\3cf3f55d5778dfdf956bc5b4780bba89\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\b2409f7f7047d916fdb8ce5cd1855f71\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\303841d5a01881781d7bcd0b9a1b8466\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\a20899895a5536f417fb9395f1603f8d\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\a1b15eaaf08fb20dd8d722ca164b4b9c\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:1-36:12
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:1-36:12
+	package
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:17:5-44
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:21:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Neo Anderson\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Neo Anderson\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\4afd4f5f390f2998f1a06307e306af63\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\4afd4f5f390f2998f1a06307e306af63\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\4afd4f5f390f2998f1a06307e306af63\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:22:9-45
+activity#com.example.android.fragments.MainActivity
+ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:26:13-32
+	android:windowSoftInputMode
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Neo Anderson\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Neo Anderson\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\Neo Anderson\.gradle\caches\transforms-3\61bad95d48f6c1678351882590055ef1\transformed\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] C:\Users\Neo Anderson\.gradle\caches\transforms-3\61bad95d48f6c1678351882590055ef1\transformed\fragment-1.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\c970ab97bb5351b7da8839fd05c191b6\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\c970ab97bb5351b7da8839fd05c191b6\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\4afd4f5f390f2998f1a06307e306af63\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\4afd4f5f390f2998f1a06307e306af63\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\82c537ca7208c5bdc129dab95faf4596\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\2ff40ce2f9d039dce4ff2518356734a1\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\2ff40ce2f9d039dce4ff2518356734a1\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\3cf3f55d5778dfdf956bc5b4780bba89\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\3cf3f55d5778dfdf956bc5b4780bba89\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\b2409f7f7047d916fdb8ce5cd1855f71\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\b2409f7f7047d916fdb8ce5cd1855f71\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\303841d5a01881781d7bcd0b9a1b8466\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\303841d5a01881781d7bcd0b9a1b8466\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\a20899895a5536f417fb9395f1603f8d\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\a20899895a5536f417fb9395f1603f8d\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\a1b15eaaf08fb20dd8d722ca164b4b9c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\a1b15eaaf08fb20dd8d722ca164b4b9c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
