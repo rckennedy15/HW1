@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/HW1/app/src/main/res/layout/article_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW1/app/src/main/res/layout/fragment_ctof.xml" value="0.176" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW1/app/src/main/res/layout/fragment_ftoc.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW1/app/src/main/res/layout/fragment_help.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW1/app/src/main/res/layout/news_articles.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

@@ -13,15 +13,14 @@
         android:name="com.example.android.fragments.HeadlinesFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        app:layout_constraintBottom_toTopOf="@+id/article_fragment"
+        app:layout_constraintBottom_toTopOf="@+id/FLarticle_fragment"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_weight="1"/>
 
-    <fragment
-        android:id="@+id/article_fragment"
-        android:name="com.example.android.fragments.ArticleFragment"
+    <FrameLayout
+        android:id="@+id/FLarticle_fragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"

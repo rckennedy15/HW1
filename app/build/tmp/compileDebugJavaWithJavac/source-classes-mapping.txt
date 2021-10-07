@@ -1,10 +1,2 @@
-com/example/android/fragments/HeadlinesFragment.java
- com.example.android.fragments.HeadlinesFragment
-com/example/android/fragments/ArticleFragment.java
- com.example.android.fragments.ArticleFragment
 com/example/android/fragments/BuildConfig.java
  com.example.android.fragments.BuildConfig
-com/example/android/fragments/Ipsum.java
- com.example.android.fragments.Ipsum
-com/example/android/fragments/MainActivity.java
- com.example.android.fragments.MainActivity

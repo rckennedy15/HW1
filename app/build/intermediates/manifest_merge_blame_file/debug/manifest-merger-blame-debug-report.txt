@@ -20,38 +20,38 @@
 20    android:versionName="1.0" >
 21
 22    <uses-sdk
-23        android:minSdkVersion="14"
-23-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+23        android:minSdkVersion="21"
+23-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="29" />
-24-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml
+24-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml
 25
 26    <application
-26-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:21:5-34:19
+26-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:21:5-34:19
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-27-->[androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\4afd4f5f390f2998f1a06307e306af63\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+27-->[androidx.core:core:1.1.0] C:\Users\Neo Anderson\.gradle\caches\transforms-3\fc9a871ea5967930dc25d722dfd1a952\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
 28        android:debuggable="true"
 29        android:icon="@drawable/ic_launcher"
-29-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:22:9-45
+29-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:22:9-45
 30        android:label="@string/app_name"
-30-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:23:9-41
+30-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:23:9-41
 31        android:testOnly="true" >
 32        <activity
-32-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:24:9-33:20
+32-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:24:9-33:20
 33            android:name="com.example.android.fragments.MainActivity"
-33-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:25:13-41
+33-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:25:13-41
 34            android:label="HW1"
-34-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:26:13-32
+34-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:26:13-32
 35            android:windowSoftInputMode="adjustPan" >
-35-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:27:13-52
+35-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:27:13-52
 36            <intent-filter>
-36-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:28:13-32:29
+36-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:28:13-32:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:29:17-69
-37-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:29:25-66
+37-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:29:17-69
+37-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:29:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:31:17-77
-39-->C:\Android\AndroidStudioProjects\HW1_base\app\src\main\AndroidManifest.xml:31:27-74
+39-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:31:17-77
+39-->C:\Android\AndroidStudioProjects\HW1\app\src\main\AndroidManifest.xml:31:27-74
 40            </intent-filter>
 41        </activity>
 42    </application>

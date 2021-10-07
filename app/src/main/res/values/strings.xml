@@ -15,8 +15,6 @@ limitations under the License.
 -->
 
 <resources>
-    <string name="app_name">HW1</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">HW1: Temperature Conversion</string>
+    <string name="help_text">This is arbitrary help text</string>
 </resources>
