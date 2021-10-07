@@ -17,4 +17,9 @@ limitations under the License.
 <resources>
     <string name="app_name">HW1: Temperature Conversion</string>
     <string name="help_text">This is arbitrary help text</string>
+    <string name="_100">100</string>
+    <string name="convert">Convert</string>
+    <string name="temperature_100_00_c_is_212_00_f">Temperature 100.00 (C) is 212.00 (F)</string>
+    <string name="_32">32</string>
+    <string name="temperature_32_00_f_is_0_00_c">Temperature 32.00 (F) is 0.00 (C)</string>
 </resources>

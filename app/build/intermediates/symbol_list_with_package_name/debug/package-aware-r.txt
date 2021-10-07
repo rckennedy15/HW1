@@ -177,6 +177,7 @@ id barrier
 id blocking
 id bottom
 id cancel_action
+id celsiusValue
 id center
 id center_horizontal
 id center_vertical
@@ -184,11 +185,13 @@ id chains
 id chronometer
 id clip_horizontal
 id clip_vertical
+id convert
 id dialog_button
 id dimensions
 id direct
 id end
 id end_padder
+id fahrenheitValue
 id fill
 id fill_horizontal
 id fill_vertical
@@ -216,6 +219,7 @@ id packed
 id parent
 id percent
 id relativeLayout
+id result
 id right
 id right_icon
 id right_side
@@ -262,9 +266,14 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+string _100
+string _32
 string app_name
+string convert
 string help_text
 string status_bar_notification_info_overflow
+string temperature_100_00_c_is_212_00_f
+string temperature_32_00_f_is_0_00_c
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
 style TextAppearance_Compat_Notification_Info_Media

@@ -17,6 +17,9 @@ package com.example.android.fragments
 
 import android.os.Bundle
 import android.util.Log
+import android.view.View
+import android.widget.EditText
+import android.widget.TextView
 import androidx.fragment.app.FragmentActivity
 
 class MainActivity : FragmentActivity() {
@@ -54,5 +57,27 @@ class MainActivity : FragmentActivity() {
 
         //TextView article = findViewById(R.id.article);
         //article.setText(Ipsum.Articles[position]);
+    }
+
+    fun convertToFahrenheit(view: android.view.View) {
+        val text = findViewById<View>(R.id.celsiusValue) as EditText
+        val celsiusValue = text.text.toString().toDouble()
+        val fahrenheitValue = (celsiusValue * 1.8) + 32
+        val cText = String.format("%.2f", celsiusValue)
+        val fText = String.format("%.2f", fahrenheitValue)
+        val result = findViewById<View>(R.id.result) as TextView
+        val resultText = "Temperature $cText (C) is $fText (F)"
+        result.text = resultText
+    }
+
+    fun convertToCelsius(view: android.view.View) {
+        val text = findViewById<View>(R.id.fahrenheitValue) as EditText
+        val fahrenheitValue = text.text.toString().toDouble()
+        val celsiusValue = (fahrenheitValue - 32) * (0.555555555555555555)
+        val cText = String.format("%.2f", fahrenheitValue)
+        val fText = String.format("%.2f", celsiusValue)
+        val result = findViewById<View>(R.id.result) as TextView
+        val resultText = "Temperature $cText (F) is $fText (C)"
+        result.text = resultText
     }
 }
